@@ -23,6 +23,7 @@ header{
     display: flex;
     list-style-type: none;
     gap: 2rem;
+    position: fixed;
 }
 
 .navigation a {
